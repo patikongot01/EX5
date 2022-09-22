@@ -11,7 +11,7 @@ import java.util.EventObject;
 
 /**
  *
- * @author Prueksa
+ * @author phati
  */
 public class ScoreEvent extends EventObject {
      private String someData;
